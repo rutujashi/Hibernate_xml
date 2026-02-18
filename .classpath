@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/jar Files/mysql-connector-j-8.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Hibernate/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Hibernate/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Hibernate/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Hibernate/ehcache-core-2.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Hibernate/h2-1.4.199.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Hibernate/hibernate-commons-annotations-4.0.4.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Hibernate/hibernate-core-4.3.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Hibernate/hibernate-ehcache-4.3.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Hibernate/hibernate-entitymanager-4.3.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Hibernate/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Hibernate/hibernate-jpamodelgen-4.3.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Hibernate/jandex-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Hibernate/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Hibernate/jboss-logging-3.1.3.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Hibernate/jboss-logging-annotations-1.2.0.Beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Hibernate/jboss-transaction-api_1.2_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Hibernate/joda-time-2.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Hibernate/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Hibernate/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Hibernate/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
